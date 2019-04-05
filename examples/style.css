@@ -1,0 +1,11 @@
+/* body 
+{
+    background-color: azure;
+} */
+
+h1, h2
+{
+    color: red;
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+}
